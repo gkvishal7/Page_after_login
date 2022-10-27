@@ -738,6 +738,17 @@ html, body{ height: 100%; }
     padding: 10px;
 }
 
+.btns{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 2rem;
+}
+
+.add-btn{
+    /* margin: 1rem 5rem; */
+}
+
 .item-type-zoom .item-info .line {
     height: 1px;
     width: 60%;
